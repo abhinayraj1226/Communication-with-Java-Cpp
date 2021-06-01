@@ -1,4 +1,4 @@
-# Communication-with-Java-Cpp
+# Communication with Java & Cpp
 
 Here, we are calling cpp method in java class which will have params and return boolean. 
 
